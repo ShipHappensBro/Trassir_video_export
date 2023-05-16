@@ -1,0 +1,16 @@
+[
+    {
+    "name":"V6.2.9/12",
+    "year_to_start":2023,
+    "mounth_to_start":5,
+    "day_to_start":5,
+    "hour_to_start":15,
+    "minute_to_start":5,
+    "year_to_end":2023,
+    "mounth_to_end":5,
+    "day_to_end":5,
+    "hour_to_end":15,
+    "minute_to_end":6,
+    "duration":""
+    }
+    ]
